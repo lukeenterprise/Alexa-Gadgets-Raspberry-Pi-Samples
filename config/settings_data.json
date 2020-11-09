@@ -2,12 +2,12 @@
   "current": {
     "color_header_bg": "#0a0a0a",
     "color_header_links": "#1979b5",
-    "color_body_bg": "#ffffff",
-    "color_content_bg": "#ffffff",
+    "color_body_bg": "#e6e8ea",
+    "color_content_bg": "#eef5ef",
     "color_body_headings": "#666666",
     "color_body_text": "#1979b5",
     "color_button_bg": "#0a0a0a",
-    "color_button_text": "#1979b5",
+    "color_button_text": "#666666",
     "color_footer_bg": "#ffffff",
     "color_footer_text": "#666666",
     "color_hero_text": "#1979b5",
@@ -144,7 +144,7 @@
           "image-content-0": {
             "type": "image_block",
             "settings": {
-              "image": "shopify:\/\/shop_images\/image0.jpeg"
+              "image": "shopify:\/\/shop_images\/3d_glass_window_logo_mockup.jpg"
             }
           },
           "image-content-1": {
@@ -180,8 +180,8 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/image0.jpeg",
-          "logo_max_width": "110",
+          "logo": "shopify:\/\/shop_images\/Logo-01.jpg",
+          "logo_max_width": "420",
           "main_linklist": "main-menu",
           "promo_bar_enable": false,
           "promo_bar_text": "Luke outdoors Aqua Supply",
